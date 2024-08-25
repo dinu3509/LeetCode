@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dinu3509/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/dinu3509/LeetCode/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dinu3509/LeetCode/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dinu3509/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dinu3509/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
