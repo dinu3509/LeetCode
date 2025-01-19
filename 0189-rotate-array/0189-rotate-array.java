@@ -11,25 +11,12 @@ class Solution {
         }
     }
     public void rotate(int[] nums, int k) {
-         int n = nums.length;
-        
-        
-        k = k % n;
-        
+         int n = nums.length;       
+        k = k % n;    
         int start=0,end=n-1;
         reverseArray(nums,start,end);
         reverseArray(nums,start,k-1);
         reverseArray(nums,k,end);
-
-    System.out.print("[");
-        for (int i = 0; i < nums.length; i++) {
-            System.out.print(nums[i]);
-            if (i < nums.length - 1) {
-                System.out.print(", "); 
-            }
-        }
-        System.out.print("]");
-    }
         
     
-}
+}}
